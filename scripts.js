@@ -1,7 +1,7 @@
 // replace value below with your Account ID //
 var dsAccountId = '9388395e-1d17-4441-a397-1f994eb264a0';
 //  replace value below with your Clickwrap ID //
-var dsClickwrapId = '4d71344f-5ee9-45b6-99f8-38113e9babfd4';
+var dsClickwrapId = '4d71344f-5ee9-45b6-99f8-38113e9babfd';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
